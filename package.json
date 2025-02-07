@@ -35,7 +35,7 @@
   },
   "dependencies": {
     "@remixproject/plugin": "^0.1.9",
-    "binarysearch": "^1.0.0",
+    "binarysearch": "^1.0.1",
     "ethereum-types": "^2.1.4"
   }
 }
